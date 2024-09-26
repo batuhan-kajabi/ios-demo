@@ -4,6 +4,28 @@
 <dict>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+    <key>NSAppleMusicUsageDescription</key>
+    <string>Allow $(PRODUCT_NAME) to access Apple Music</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Allow access your calendar so $(PRODUCT_NAME) can save upcoming events</string>
+    <key>NSCameraUsageDescription</key>
+    <string>This allows you to take photos and share them with the community in $(PRODUCT_NAME)</string>
+    <key>NSContactsUsageDescription</key>
+    <string>Invite others to join $(PRODUCT_NAME) with you</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>$(PRODUCT_NAME) will use your location to recommend the best communities</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Allow $(PRODUCT_NAME) to access your mic so friends can hear you speak in video calls</string>
+    <key>NSMotionUsageDescription</key>
+    <string>$(PRODUCT_NAME) will use motion tracking to alert you when friends are around</string>
+    <key>NSPhotoLibraryAddUsageDescription</key>
+    <string>$(PRODUCT_NAME) will save photos to your library so you can share them later</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>Allow $(PRODUCT_NAME) access to your photos so you can share them in chats and feeds</string>
+    <key>NSRemindersUsageDescription</key>
+    <string>Allow $(PRODUCT_NAME) to access your reminders so you won't forget an event</string>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Allow $(PRODUCT_NAME) to create events in your calendar</string>
 	<key>UIAppFonts</key>
 	<array>
 		<string>Avenir-Black.ttf</string>

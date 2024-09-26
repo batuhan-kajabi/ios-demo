@@ -14,9 +14,10 @@ class ReactNativeViewController: UIViewController, RCTBridgeDelegate {
         }
         
         let initialProps: [String: Any] = [
-                    "nativeVariable": "Hello from Native",
-                    "userId": 1234
-                ]
+            "userId": 1234,
+            "token": "1223",
+            "communitiyId": "123"
+        ]
         
         // Create a React Root View with the unwrapped bridge and the module name
         let rootView = RCTRootView(bridge: bridge, moduleName: "vibely", initialProperties: initialProps)
