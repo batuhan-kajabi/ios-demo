@@ -2,7 +2,38 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-    <key>UIViewControllerBasedStatusBarAppearance</key>
-    <false/>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Avenir-Black.ttf</string>
+		<string>Avenir-BlackOblique.ttf</string>
+		<string>Avenir-Book.ttf</string>
+		<string>Avenir-BookOblique.ttf</string>
+		<string>Avenir-Heavy.ttf</string>
+		<string>Avenir-HeavyOblique.ttf</string>
+		<string>Avenir-Light.ttf</string>
+		<string>Avenir-LightOblique.ttf</string>
+		<string>Avenir-Medium.ttf</string>
+		<string>Avenir-MediumOblique.ttf</string>
+		<string>Avenir-Oblique.ttf</string>
+		<string>Avenir-Roman.ttf</string>
+		<string>CircularXXTT-Bold.ttf</string>
+		<string>CircularXXTT-BoldItalic.ttf</string>
+		<string>CircularXXTT-Book.ttf</string>
+		<string>CircularXXTT-BookItalic.ttf</string>
+		<string>CircularXXTT-Italic.ttf</string>
+		<string>CircularXXTT-Medium.ttf</string>
+		<string>CircularXXTT-MediumItalic.ttf</string>
+		<string>CircularXXTT-Regular.ttf</string>
+		<string>HickoryJack.ttf</string>
+		<string>SigmarOne-Regular.ttf</string>
+		<string>Stolzl-Bold.ttf</string>
+		<string>Stolzl-Book.ttf</string>
+		<string>Stolzl-Light.ttf</string>
+		<string>Stolzl-Medium.ttf</string>
+		<string>Stolzl-Regular.ttf</string>
+		<string>Stolzl-Thin.ttf</string>
+	</array>
 </dict>
 </plist>

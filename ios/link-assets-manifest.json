@@ -1,0 +1,121 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "fonts/Avenir-Black.ttf",
+      "sha1": "9e6d0ca838e8e1aeca29b27d85a87c2f5c7a95ff"
+    },
+    {
+      "path": "fonts/Avenir-BlackOblique.ttf",
+      "sha1": "8afc01e7bcde336ba8a43fcfa3dd910626fce785"
+    },
+    {
+      "path": "fonts/Avenir-Book.ttf",
+      "sha1": "dc85c467a7e1002e13d98f4a70ca0a1d0f7177ee"
+    },
+    {
+      "path": "fonts/Avenir-BookOblique.ttf",
+      "sha1": "25635bf3113f8b350e796263897b3a7d6feaba99"
+    },
+    {
+      "path": "fonts/Avenir-Heavy.ttf",
+      "sha1": "43bbbb7b7b44fdc74edc3986989894c30ad40709"
+    },
+    {
+      "path": "fonts/Avenir-HeavyOblique.ttf",
+      "sha1": "08cfb1d5f14aa3c799eb6990f8e1ecb94dc2218d"
+    },
+    {
+      "path": "fonts/Avenir-Light.ttf",
+      "sha1": "8a3cc132e317f1f1349119708be25e63ab993f5f"
+    },
+    {
+      "path": "fonts/Avenir-LightOblique.ttf",
+      "sha1": "fb00f5bdf279b166ea4d4eab0e8825ea044525c9"
+    },
+    {
+      "path": "fonts/Avenir-Medium.ttf",
+      "sha1": "2bce8bb5c320e68ce6b732046b198c92969b2d95"
+    },
+    {
+      "path": "fonts/Avenir-MediumOblique.ttf",
+      "sha1": "2df4152da4daf62d502181266f0618a86d47bfb5"
+    },
+    {
+      "path": "fonts/Avenir-Next.ttc",
+      "sha1": "0a20afaf116249167da2fed8af2bf099093c9d6e"
+    },
+    {
+      "path": "fonts/Avenir-Oblique.ttf",
+      "sha1": "0ae375e0ea02d7b8d60e6b6053b278563cf6900a"
+    },
+    {
+      "path": "fonts/Avenir-Roman.ttf",
+      "sha1": "4950058100fa1f54028effb18b0ec96cbfcec47d"
+    },
+    {
+      "path": "fonts/CircularXXTT-Bold.ttf",
+      "sha1": "0f3d906791b69c3015faa8bcc60a10939a45bf81"
+    },
+    {
+      "path": "fonts/CircularXXTT-BoldItalic.ttf",
+      "sha1": "40646eb25b9581c0a4dcdd5de13ed8e8ef855260"
+    },
+    {
+      "path": "fonts/CircularXXTT-Book.ttf",
+      "sha1": "c1473775f2ba41f59a3d29572b167bb47c8239db"
+    },
+    {
+      "path": "fonts/CircularXXTT-BookItalic.ttf",
+      "sha1": "6463632538ee975f80d7e77988e84866be8a0c50"
+    },
+    {
+      "path": "fonts/CircularXXTT-Italic.ttf",
+      "sha1": "06511971cf84e480acc8cc3f2010de0430cc5945"
+    },
+    {
+      "path": "fonts/CircularXXTT-Medium.ttf",
+      "sha1": "74a985998a7eee934de2a9247b50253b81b5741c"
+    },
+    {
+      "path": "fonts/CircularXXTT-MediumItalic.ttf",
+      "sha1": "25556376a35635924bf181786aa5fa7a68e603a9"
+    },
+    {
+      "path": "fonts/CircularXXTT-Regular.ttf",
+      "sha1": "4f799f0739549a9fc616463b5a2efbadcbd67628"
+    },
+    {
+      "path": "fonts/HickoryJack.ttf",
+      "sha1": "bec1c8b2688d16ab73ebad4b893e1d9107e3ffca"
+    },
+    {
+      "path": "fonts/SigmarOne-Regular.ttf",
+      "sha1": "d30a84ee220c47e1768000184c181e7168d7a3b1"
+    },
+    {
+      "path": "fonts/Stolzl-Bold.ttf",
+      "sha1": "67b849fdc7b8bf3b6c88cd73f6437fe529ab69ce"
+    },
+    {
+      "path": "fonts/Stolzl-Book.ttf",
+      "sha1": "f74323c4ef7346c8ca53892776853951cd145313"
+    },
+    {
+      "path": "fonts/Stolzl-Light.ttf",
+      "sha1": "791e46f07a9e4bd67d848dc9fec0e1dd3e82361b"
+    },
+    {
+      "path": "fonts/Stolzl-Medium.ttf",
+      "sha1": "bc6629cd94da5c2a9735d9386f8bee3d707de233"
+    },
+    {
+      "path": "fonts/Stolzl-Regular.ttf",
+      "sha1": "fe0d123de3ed04f97fe44b0d98e35545e5d3a583"
+    },
+    {
+      "path": "fonts/Stolzl-Thin.ttf",
+      "sha1": "3319e703a60aa73479554c2de9d1df3ecb1566ca"
+    }
+  ]
+}

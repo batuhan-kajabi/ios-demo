@@ -7,33 +7,91 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0BF0EA54998544FCBCFC4AEA /* CircularXXTT-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 23577E7D271643EE8A8559DB /* CircularXXTT-Regular.ttf */; };
+		0D386F878D4B4788BAEE923D /* Stolzl-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB1261C15E0E449CA09BB1DD /* Stolzl-Thin.ttf */; };
 		182DE365A5085FC6685C5DD4 /* libPods-mbanative.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 58765951C66ABF56A29AB9F3 /* libPods-mbanative.a */; };
+		4433F9267CB04137BD128363 /* Stolzl-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9ADC866068024BAAB54C7076 /* Stolzl-Light.ttf */; };
+		557CE0D5E1AA4347B84A7156 /* HickoryJack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 036A8339A5CA4540BA488B54 /* HickoryJack.ttf */; };
+		5CD2A88CEE234150A240CF01 /* Stolzl-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FBB4C25581C0461C902E0233 /* Stolzl-Bold.ttf */; };
+		615E1F5490C441AB81F9A09C /* Avenir-BookOblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 68E04573913F4BAF8FB17DCC /* Avenir-BookOblique.ttf */; };
+		64DCC38B15C2440DA3D68369 /* CircularXXTT-BookItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 92405C727A434C69AA06C83D /* CircularXXTT-BookItalic.ttf */; };
+		6C4E007D45944A2B8CD6DEE8 /* Avenir-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 65913342D7E646AFAE32280A /* Avenir-Black.ttf */; };
+		6EED1240184B48BC962301B3 /* SigmarOne-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BAE02D1B63FA4E4F9C086407 /* SigmarOne-Regular.ttf */; };
+		70CBE5A692644BBCA45D8308 /* CircularXXTT-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24574F3889C7440AB1ADEFD5 /* CircularXXTT-Book.ttf */; };
 		7414BA792C9B5AAB005A589F /* mbanativeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7414BA782C9B5AAB005A589F /* mbanativeApp.swift */; };
 		7414BA7B2C9B5AAB005A589F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7414BA7A2C9B5AAB005A589F /* ContentView.swift */; };
 		7414BA7D2C9B5AAD005A589F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7414BA7C2C9B5AAD005A589F /* Assets.xcassets */; };
 		7414BA802C9B5AAD005A589F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7414BA7F2C9B5AAD005A589F /* Preview Assets.xcassets */; };
-		741FDB302C9DCA60000AE178 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 741FDB2E2C9DCA60000AE178 /* assets */; };
-		741FDB342C9DD3BF000AE178 /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = 741FDB332C9DD3BF000AE178 /* main.jsbundle */; };
+		741FDB9D2CA4A47D000AE178 /* assets in Resources */ = {isa = PBXBuildFile; fileRef = 741FDB9B2CA4A47D000AE178 /* assets */; };
+		741FDB9E2CA4A47D000AE178 /* main.jsbundle in Resources */ = {isa = PBXBuildFile; fileRef = 741FDB9C2CA4A47D000AE178 /* main.jsbundle */; };
 		7462C86B2C9B64BF00276187 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7462C86A2C9B64BF00276187 /* SecondView.swift */; };
 		7462C8822C9CA5B200276187 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7462C8812C9CA5B200276187 /* AppDelegate.swift */; };
 		7462C8842C9CA86200276187 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7462C8832C9CA86100276187 /* GoogleService-Info.plist */; };
+		806FBDDAFACA4919A47D5807 /* CircularXXTT-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6F097CD0ED3948609EC57725 /* CircularXXTT-Bold.ttf */; };
+		80FD45B6AD7441B6A790E461 /* CircularXXTT-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37013EBAE2694501AEE6D237 /* CircularXXTT-Italic.ttf */; };
+		8631A4BAB4AA41F1A8AF40AD /* Avenir-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 156AFD6BB3724153BED36FF4 /* Avenir-Book.ttf */; };
+		919FBBD5F96646B4947C0415 /* Avenir-LightOblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4E91C511FA764604BD130284 /* Avenir-LightOblique.ttf */; };
+		9A4C429885E34CE5B781F6AD /* Avenir-HeavyOblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72C053716DAD418ABB62BB04 /* Avenir-HeavyOblique.ttf */; };
+		B3838206B42A45C08047AE73 /* Stolzl-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9D56C6C453CE4CC2BC1105A4 /* Stolzl-Regular.ttf */; };
+		B5216A7A035A4827A505F10B /* Avenir-BlackOblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF108E13EE474495BB039C43 /* Avenir-BlackOblique.ttf */; };
+		B6460B31FC304EB9AF4CAC22 /* Avenir-Heavy.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 596A383E13EC4875812F0343 /* Avenir-Heavy.ttf */; };
+		B9EACC4C937743989644C3B0 /* Avenir-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 29609E0427A44A8981ED745A /* Avenir-Medium.ttf */; };
+		BCD2196581224DF89AE53D7C /* Avenir-MediumOblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 112A95F1176D4C6387447109 /* Avenir-MediumOblique.ttf */; };
+		C397A1A68CB04CABB250CFC2 /* CircularXXTT-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C1112658D62E4BED865A4918 /* CircularXXTT-Medium.ttf */; };
+		C6716912F44C47C8BC773891 /* CircularXXTT-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2BF54FDFF7F54E8382B5152F /* CircularXXTT-BoldItalic.ttf */; };
+		CFDD2580357C4780ACF8FF9C /* CircularXXTT-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1620AE60CDB34EEEA1515D3F /* CircularXXTT-MediumItalic.ttf */; };
+		DBFE9B2FD8EA4D24A019CC28 /* Avenir-Roman.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9F22CB6C4D9A4022804B967D /* Avenir-Roman.ttf */; };
+		E0F9E10EE3624B5198FEF181 /* Stolzl-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72EDB7C3C5C0495581AC08DA /* Stolzl-Medium.ttf */; };
+		EBD70320D66F4E2698F7F015 /* Stolzl-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B11523F6B1B74035ACD8A843 /* Stolzl-Book.ttf */; };
+		EDE80D2325E64209AD249B3A /* Avenir-Oblique.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DEF6EAF2D95F43D0A7CBA1C4 /* Avenir-Oblique.ttf */; };
+		EFF15357ED87450D8EADB0D5 /* Avenir-Next.ttc in Resources */ = {isa = PBXBuildFile; fileRef = FA2B3CBF5974418E99F46751 /* Avenir-Next.ttc */; };
+		F71A0624852443BB9BF00F2C /* Avenir-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5DC3355DD43B46C98A0C30DC /* Avenir-Light.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		036A8339A5CA4540BA488B54 /* HickoryJack.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = HickoryJack.ttf; path = ../fonts/HickoryJack.ttf; sourceTree = "<group>"; };
+		112A95F1176D4C6387447109 /* Avenir-MediumOblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-MediumOblique.ttf"; path = "../fonts/Avenir-MediumOblique.ttf"; sourceTree = "<group>"; };
+		156AFD6BB3724153BED36FF4 /* Avenir-Book.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Book.ttf"; path = "../fonts/Avenir-Book.ttf"; sourceTree = "<group>"; };
+		1620AE60CDB34EEEA1515D3F /* CircularXXTT-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-MediumItalic.ttf"; path = "../fonts/CircularXXTT-MediumItalic.ttf"; sourceTree = "<group>"; };
+		23577E7D271643EE8A8559DB /* CircularXXTT-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-Regular.ttf"; path = "../fonts/CircularXXTT-Regular.ttf"; sourceTree = "<group>"; };
+		24574F3889C7440AB1ADEFD5 /* CircularXXTT-Book.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-Book.ttf"; path = "../fonts/CircularXXTT-Book.ttf"; sourceTree = "<group>"; };
+		29609E0427A44A8981ED745A /* Avenir-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Medium.ttf"; path = "../fonts/Avenir-Medium.ttf"; sourceTree = "<group>"; };
+		2BF54FDFF7F54E8382B5152F /* CircularXXTT-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-BoldItalic.ttf"; path = "../fonts/CircularXXTT-BoldItalic.ttf"; sourceTree = "<group>"; };
 		34662532DD0C5F4EBE1D0B2D /* Pods-mbanative.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mbanative.release.xcconfig"; path = "Target Support Files/Pods-mbanative/Pods-mbanative.release.xcconfig"; sourceTree = "<group>"; };
+		37013EBAE2694501AEE6D237 /* CircularXXTT-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-Italic.ttf"; path = "../fonts/CircularXXTT-Italic.ttf"; sourceTree = "<group>"; };
+		4E91C511FA764604BD130284 /* Avenir-LightOblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-LightOblique.ttf"; path = "../fonts/Avenir-LightOblique.ttf"; sourceTree = "<group>"; };
 		58765951C66ABF56A29AB9F3 /* libPods-mbanative.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-mbanative.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		596A383E13EC4875812F0343 /* Avenir-Heavy.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Heavy.ttf"; path = "../fonts/Avenir-Heavy.ttf"; sourceTree = "<group>"; };
+		5DC3355DD43B46C98A0C30DC /* Avenir-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Light.ttf"; path = "../fonts/Avenir-Light.ttf"; sourceTree = "<group>"; };
+		65913342D7E646AFAE32280A /* Avenir-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Black.ttf"; path = "../fonts/Avenir-Black.ttf"; sourceTree = "<group>"; };
+		68E04573913F4BAF8FB17DCC /* Avenir-BookOblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-BookOblique.ttf"; path = "../fonts/Avenir-BookOblique.ttf"; sourceTree = "<group>"; };
+		6F097CD0ED3948609EC57725 /* CircularXXTT-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-Bold.ttf"; path = "../fonts/CircularXXTT-Bold.ttf"; sourceTree = "<group>"; };
+		72C053716DAD418ABB62BB04 /* Avenir-HeavyOblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-HeavyOblique.ttf"; path = "../fonts/Avenir-HeavyOblique.ttf"; sourceTree = "<group>"; };
+		72EDB7C3C5C0495581AC08DA /* Stolzl-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Stolzl-Medium.ttf"; path = "../fonts/Stolzl-Medium.ttf"; sourceTree = "<group>"; };
 		7414BA752C9B5AAB005A589F /* mbanative.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = mbanative.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7414BA782C9B5AAB005A589F /* mbanativeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = mbanativeApp.swift; sourceTree = "<group>"; };
 		7414BA7A2C9B5AAB005A589F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7414BA7C2C9B5AAD005A589F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7414BA7F2C9B5AAD005A589F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		741FDB2E2C9DCA60000AE178 /* assets */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = assets; sourceTree = SOURCE_ROOT; };
-		741FDB332C9DD3BF000AE178 /* main.jsbundle */ = {isa = PBXFileReference; lastKnownFileType = file; path = main.jsbundle; sourceTree = SOURCE_ROOT; };
+		741FDB9B2CA4A47D000AE178 /* assets */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = assets; sourceTree = SOURCE_ROOT; };
+		741FDB9C2CA4A47D000AE178 /* main.jsbundle */ = {isa = PBXFileReference; lastKnownFileType = file; path = main.jsbundle; sourceTree = SOURCE_ROOT; };
 		7462C86A2C9B64BF00276187 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 		7462C86E2C9C605C00276187 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		7462C8812C9CA5B200276187 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7462C8832C9CA86100276187 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
+		92405C727A434C69AA06C83D /* CircularXXTT-BookItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-BookItalic.ttf"; path = "../fonts/CircularXXTT-BookItalic.ttf"; sourceTree = "<group>"; };
 		941D2400ABA6A5F9F216CC5B /* Pods-mbanative.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-mbanative.debug.xcconfig"; path = "Target Support Files/Pods-mbanative/Pods-mbanative.debug.xcconfig"; sourceTree = "<group>"; };
+		9ADC866068024BAAB54C7076 /* Stolzl-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Stolzl-Light.ttf"; path = "../fonts/Stolzl-Light.ttf"; sourceTree = "<group>"; };
+		9D56C6C453CE4CC2BC1105A4 /* Stolzl-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Stolzl-Regular.ttf"; path = "../fonts/Stolzl-Regular.ttf"; sourceTree = "<group>"; };
+		9F22CB6C4D9A4022804B967D /* Avenir-Roman.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Roman.ttf"; path = "../fonts/Avenir-Roman.ttf"; sourceTree = "<group>"; };
+		AB1261C15E0E449CA09BB1DD /* Stolzl-Thin.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Stolzl-Thin.ttf"; path = "../fonts/Stolzl-Thin.ttf"; sourceTree = "<group>"; };
+		B11523F6B1B74035ACD8A843 /* Stolzl-Book.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Stolzl-Book.ttf"; path = "../fonts/Stolzl-Book.ttf"; sourceTree = "<group>"; };
+		BAE02D1B63FA4E4F9C086407 /* SigmarOne-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SigmarOne-Regular.ttf"; path = "../fonts/SigmarOne-Regular.ttf"; sourceTree = "<group>"; };
+		C1112658D62E4BED865A4918 /* CircularXXTT-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularXXTT-Medium.ttf"; path = "../fonts/CircularXXTT-Medium.ttf"; sourceTree = "<group>"; };
+		DEF6EAF2D95F43D0A7CBA1C4 /* Avenir-Oblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Oblique.ttf"; path = "../fonts/Avenir-Oblique.ttf"; sourceTree = "<group>"; };
+		FA2B3CBF5974418E99F46751 /* Avenir-Next.ttc */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-Next.ttc"; path = "../fonts/Avenir-Next.ttc"; sourceTree = "<group>"; };
+		FBB4C25581C0461C902E0233 /* Stolzl-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Stolzl-Bold.ttf"; path = "../fonts/Stolzl-Bold.ttf"; sourceTree = "<group>"; };
+		FF108E13EE474495BB039C43 /* Avenir-BlackOblique.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Avenir-BlackOblique.ttf"; path = "../fonts/Avenir-BlackOblique.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +121,7 @@
 				7414BA762C9B5AAB005A589F /* Products */,
 				9BB96C50EB657D0D12E251B0 /* Pods */,
 				262FEABDE67F23C6F6FCCE63 /* Frameworks */,
+				A10193EE8BB94947BBD6EBC3 /* Resources */,
 			);
 			sourceTree = "<group>";
 		};
@@ -77,8 +136,8 @@
 		7414BA772C9B5AAB005A589F /* mbanative */ = {
 			isa = PBXGroup;
 			children = (
-				741FDB332C9DD3BF000AE178 /* main.jsbundle */,
-				741FDB2E2C9DCA60000AE178 /* assets */,
+				741FDB9B2CA4A47D000AE178 /* assets */,
+				741FDB9C2CA4A47D000AE178 /* main.jsbundle */,
 				7462C8832C9CA86100276187 /* GoogleService-Info.plist */,
 				7462C86E2C9C605C00276187 /* Info.plist */,
 				7414BA782C9B5AAB005A589F /* mbanativeApp.swift */,
@@ -108,6 +167,42 @@
 			path = Pods;
 			sourceTree = "<group>";
 		};
+		A10193EE8BB94947BBD6EBC3 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				65913342D7E646AFAE32280A /* Avenir-Black.ttf */,
+				FF108E13EE474495BB039C43 /* Avenir-BlackOblique.ttf */,
+				156AFD6BB3724153BED36FF4 /* Avenir-Book.ttf */,
+				68E04573913F4BAF8FB17DCC /* Avenir-BookOblique.ttf */,
+				596A383E13EC4875812F0343 /* Avenir-Heavy.ttf */,
+				72C053716DAD418ABB62BB04 /* Avenir-HeavyOblique.ttf */,
+				5DC3355DD43B46C98A0C30DC /* Avenir-Light.ttf */,
+				4E91C511FA764604BD130284 /* Avenir-LightOblique.ttf */,
+				29609E0427A44A8981ED745A /* Avenir-Medium.ttf */,
+				112A95F1176D4C6387447109 /* Avenir-MediumOblique.ttf */,
+				DEF6EAF2D95F43D0A7CBA1C4 /* Avenir-Oblique.ttf */,
+				9F22CB6C4D9A4022804B967D /* Avenir-Roman.ttf */,
+				6F097CD0ED3948609EC57725 /* CircularXXTT-Bold.ttf */,
+				2BF54FDFF7F54E8382B5152F /* CircularXXTT-BoldItalic.ttf */,
+				24574F3889C7440AB1ADEFD5 /* CircularXXTT-Book.ttf */,
+				92405C727A434C69AA06C83D /* CircularXXTT-BookItalic.ttf */,
+				37013EBAE2694501AEE6D237 /* CircularXXTT-Italic.ttf */,
+				C1112658D62E4BED865A4918 /* CircularXXTT-Medium.ttf */,
+				1620AE60CDB34EEEA1515D3F /* CircularXXTT-MediumItalic.ttf */,
+				23577E7D271643EE8A8559DB /* CircularXXTT-Regular.ttf */,
+				036A8339A5CA4540BA488B54 /* HickoryJack.ttf */,
+				BAE02D1B63FA4E4F9C086407 /* SigmarOne-Regular.ttf */,
+				FBB4C25581C0461C902E0233 /* Stolzl-Bold.ttf */,
+				B11523F6B1B74035ACD8A843 /* Stolzl-Book.ttf */,
+				9ADC866068024BAAB54C7076 /* Stolzl-Light.ttf */,
+				72EDB7C3C5C0495581AC08DA /* Stolzl-Medium.ttf */,
+				9D56C6C453CE4CC2BC1105A4 /* Stolzl-Regular.ttf */,
+				AB1261C15E0E449CA09BB1DD /* Stolzl-Thin.ttf */,
+				FA2B3CBF5974418E99F46751 /* Avenir-Next.ttc */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -121,7 +216,8 @@
 				7414BA732C9B5AAB005A589F /* Resources */,
 				1F2F1A8C7251445EA507A6C7 /* [CP] Copy Pods Resources */,
 				458D935C4D59706056B8FAF7 /* [CP-User] [RNFB] Core Configuration */,
-				3E081D5DB40EF88928C4BFE6 /* [CP] Embed Pods Frameworks */,
+				3E09FEA8442597231D7CC6A4 /* [CP] Embed Pods Frameworks */,
+				4405EF6BE4CF524993B368E0 /* [CP-User] [instabug-reactnative] Upload Sourcemap */,
 			);
 			buildRules = (
 			);
@@ -170,11 +266,40 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				741FDB302C9DCA60000AE178 /* assets in Resources */,
 				7414BA802C9B5AAD005A589F /* Preview Assets.xcassets in Resources */,
-				741FDB342C9DD3BF000AE178 /* main.jsbundle in Resources */,
 				7414BA7D2C9B5AAD005A589F /* Assets.xcassets in Resources */,
 				7462C8842C9CA86200276187 /* GoogleService-Info.plist in Resources */,
+				6C4E007D45944A2B8CD6DEE8 /* Avenir-Black.ttf in Resources */,
+				B5216A7A035A4827A505F10B /* Avenir-BlackOblique.ttf in Resources */,
+				8631A4BAB4AA41F1A8AF40AD /* Avenir-Book.ttf in Resources */,
+				615E1F5490C441AB81F9A09C /* Avenir-BookOblique.ttf in Resources */,
+				B6460B31FC304EB9AF4CAC22 /* Avenir-Heavy.ttf in Resources */,
+				9A4C429885E34CE5B781F6AD /* Avenir-HeavyOblique.ttf in Resources */,
+				F71A0624852443BB9BF00F2C /* Avenir-Light.ttf in Resources */,
+				919FBBD5F96646B4947C0415 /* Avenir-LightOblique.ttf in Resources */,
+				B9EACC4C937743989644C3B0 /* Avenir-Medium.ttf in Resources */,
+				BCD2196581224DF89AE53D7C /* Avenir-MediumOblique.ttf in Resources */,
+				EDE80D2325E64209AD249B3A /* Avenir-Oblique.ttf in Resources */,
+				DBFE9B2FD8EA4D24A019CC28 /* Avenir-Roman.ttf in Resources */,
+				806FBDDAFACA4919A47D5807 /* CircularXXTT-Bold.ttf in Resources */,
+				C6716912F44C47C8BC773891 /* CircularXXTT-BoldItalic.ttf in Resources */,
+				70CBE5A692644BBCA45D8308 /* CircularXXTT-Book.ttf in Resources */,
+				64DCC38B15C2440DA3D68369 /* CircularXXTT-BookItalic.ttf in Resources */,
+				80FD45B6AD7441B6A790E461 /* CircularXXTT-Italic.ttf in Resources */,
+				C397A1A68CB04CABB250CFC2 /* CircularXXTT-Medium.ttf in Resources */,
+				741FDB9D2CA4A47D000AE178 /* assets in Resources */,
+				CFDD2580357C4780ACF8FF9C /* CircularXXTT-MediumItalic.ttf in Resources */,
+				0BF0EA54998544FCBCFC4AEA /* CircularXXTT-Regular.ttf in Resources */,
+				557CE0D5E1AA4347B84A7156 /* HickoryJack.ttf in Resources */,
+				6EED1240184B48BC962301B3 /* SigmarOne-Regular.ttf in Resources */,
+				5CD2A88CEE234150A240CF01 /* Stolzl-Bold.ttf in Resources */,
+				741FDB9E2CA4A47D000AE178 /* main.jsbundle in Resources */,
+				EBD70320D66F4E2698F7F015 /* Stolzl-Book.ttf in Resources */,
+				4433F9267CB04137BD128363 /* Stolzl-Light.ttf in Resources */,
+				E0F9E10EE3624B5198FEF181 /* Stolzl-Medium.ttf in Resources */,
+				B3838206B42A45C08047AE73 /* Stolzl-Regular.ttf in Resources */,
+				0D386F878D4B4788BAEE923D /* Stolzl-Thin.ttf in Resources */,
+				EFF15357ED87450D8EADB0D5 /* Avenir-Next.ttc in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -198,7 +323,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-mbanative/Pods-mbanative-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		3E081D5DB40EF88928C4BFE6 /* [CP] Embed Pods Frameworks */ = {
+		3E09FEA8442597231D7CC6A4 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -214,6 +339,16 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-mbanative/Pods-mbanative-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
+		};
+		4405EF6BE4CF524993B368E0 /* [CP-User] [instabug-reactnative] Upload Sourcemap */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			name = "[CP-User] [instabug-reactnative] Upload Sourcemap";
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "bash \"../node_modules/instabug-reactnative/ios/upload_sourcemap.sh\"";
 		};
 		458D935C4D59706056B8FAF7 /* [CP-User] [RNFB] Core Configuration */ = {
 			isa = PBXShellScriptBuildPhase;
