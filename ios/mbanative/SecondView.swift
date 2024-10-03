@@ -7,21 +7,21 @@ import React
 class ReactNativeViewController: UIViewController, RCTBridgeDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+
         // Initialize the React Native bridge
         guard let bridge = RCTBridge(delegate: self, launchOptions: nil) else {
             fatalError("Could not initialize React Native bridge")
         }
-        
+
         let initialProps: [String: Any] = [
             "userId": 1234,
             "token": "1223",
             "communitiyId": "123"
         ]
-        
+
         // Create a React Root View with the unwrapped bridge and the module name
-        let rootView = RCTRootView(bridge: bridge, moduleName: "vibely", initialProperties: initialProps)
-        
+        let rootView = RCTRootView(bridge: bridge, moduleName: "mbarn", initialProperties: initialProps)
+
         // Set the root view for this view controller
         self.view = rootView
     }
@@ -35,7 +35,7 @@ class ReactNativeViewController: UIViewController, RCTBridgeDelegate {
 // Create a SwiftUI view that represents the React Native view controller
 struct ReactNativeView: UIViewControllerRepresentable {
     // Required methods for UIViewControllerRepresentable
-    
+
     func makeUIViewController(context: Context) -> ReactNativeViewController {
         return ReactNativeViewController()
     }
@@ -51,7 +51,7 @@ struct ReactNativeView: UIViewControllerRepresentable {
 struct SecondView: View {
     var body: some View {
         VStack {
-            
+
             // Add the React Native view to the SwiftUI screen
             ReactNativeView()
                 .edgesIgnoringSafeArea(.all) // Makes the React Native view take up the entire available space

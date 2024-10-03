@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack {
-                Text("Here is MBA")
+                Text("Here is BMA")
                 NavigationLink(destination: SecondView()) {
                     Text("Go to React Native app")
                         .padding()
